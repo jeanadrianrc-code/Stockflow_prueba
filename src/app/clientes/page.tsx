@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { getClientes, createCliente, deleteCliente } from '@/lib/actions';
 import { Users, Plus, Trash2 } from 'lucide-react';
 

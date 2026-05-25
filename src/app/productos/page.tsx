@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { getProductos, createProducto, deleteProducto } from '@/lib/actions';
 import { Package, Plus } from 'lucide-react';
 import ProductosClient from './ProductosClient';

@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { getCompras, getProductos } from '@/lib/actions';
 import { Receipt } from 'lucide-react';
 import FormularioCompra from './ClientCompra';

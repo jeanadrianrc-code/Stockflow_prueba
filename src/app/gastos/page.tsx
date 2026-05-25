@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { getGastos, getCategorias, getCompras } from '@/lib/actions';
 import { DollarSign } from 'lucide-react';
 import GastosClient from './GastosClient';

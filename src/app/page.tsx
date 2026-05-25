@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { LayoutDashboard } from "lucide-react";
 import { getResumenDashboard } from "@/lib/actions";
 

@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { getVentas } from '@/lib/actions';
 import { CreditCard } from 'lucide-react';
 import DeudoresClient from './DeudoresClient';
